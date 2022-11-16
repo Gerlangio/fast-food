@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=ARMRdRxmJYM&list=PLT3CByfFyk9-mKKhcB6nsmd9NoxgYh
 https://github.com/bedimcode/responsive-sushi-website/tree/main/assets/img
 
 https://boxicons.com/usage#usage-as-font
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+https://scrollrevealjs.org/guide/hello-world.html
+<script src="https://unpkg.com/scrollreveal"></script>
