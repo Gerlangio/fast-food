@@ -3,8 +3,18 @@
 
 /*===== VARIABLES CSS =====*/
 :root {
-  --reader-height: ;
+  --reader-height: 3rem;
   /*===== COLORS =====*/
   --first-color: #;
+  --first-color-alt: #;
+  --title-color: #;
+  --text-color: #;
+  --text-color-light: #;
+  --body-color: #;
+  --container-color: #;
   /*===== FONT AND TYPOGRAPHY =====*/
+  --body-font: ;
+  --biggest-font-size: ;
+  --h1-font-size: ;
+  --h2-font-size: ;
 }
