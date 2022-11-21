@@ -62,6 +62,7 @@
 }
 
 html {
+  /*scroll - rolagem * behavior - comportamento * smooth - suave*/
   scroll-behavior: smooth;
 }
 
@@ -79,6 +80,37 @@ h1, h2, h3, p, ul {
 }
 
 ul {
+  /*padding - preenchimento*/
   padding: 0;
   list-style: none;
 }
+
+a {
+  text-decoration: none;
+}
+
+img {
+  /*width - largura * height - altura*/
+  max-width: 100%;
+  height: auto;
+}
+
+/*========== Variable Dark Theme ==========*/
+/*========== Button Dark/Light ==========*/
+/*========== Class CSS ==========*/
+.section {
+  padding: 4rem 0 2rem;
+}
+
+.section-title, .section-subtitle {
+  text-align: center;
+}
+
+.section-title {
+  font-size: var(--h1-font-size);
+  color: var(--title-color);
+  margin-bottom: var(--mb-3);
+}
+/*========== Layout ==========*/
+/*========== Nav ==========*/
+/*========== ==========*/
